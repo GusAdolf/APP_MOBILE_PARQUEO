@@ -2,6 +2,7 @@
 Proyecto desarrollado en Android Studio  conectándose con Firebase  y vinculando todos los componente de IOT 
 
 Autores: 
+        
         * Gustavo Contreras
         * Jonathan Guerra
         * Alexis Vallejo
