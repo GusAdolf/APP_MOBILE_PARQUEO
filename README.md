@@ -17,6 +17,7 @@ Sensores:
     * Módulo LDR - LM393
     
 Actuadores:
+
     * LED
     * Buzzer
     * Servo Motor - Puerta
