@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IOT</string>
+    <string-array name="estados">
+        <item>Seleccione</item>
+        <item>Normal</item>
+        <item>ON</item>
+        <item>OFF</item>
+
+    </string-array>
+    android:entries="@array/estados"
+</resources>
